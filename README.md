@@ -10,8 +10,7 @@ Proyecto backend que simula un sistema de mantenimiento para una flota de camion
 
 ## 🛠 Tecnologías
 - Python
-- SQLite / PostgreSQL (según implementación)
-
+- SQLite / PostgreSQL
 ## 🚀 Cómo usar
 1. Clona el proyecto:
    ```bash
